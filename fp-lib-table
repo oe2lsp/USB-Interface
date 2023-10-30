@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "calkit")(type "KiCad")(uri "${KIPRJMOD}/calkit.pretty")(options "")(descr ""))
+)

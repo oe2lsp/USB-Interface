@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name usb-interface)(type Legacy)(uri ${KIPRJMOD}/usb-interface.lib)(options "")(descr ""))
+)
