@@ -16,6 +16,7 @@ Components used:
 
 ![PCB](usb-interface_board.png)
 ![FT897](FT-897.jpg)
+![FT817](FT-817.jpg)
 
 Down Side:
 - only uses half of dynamic range at RX audio-chain as Yaesu TRX provide half of amplitude the IC can handle.
